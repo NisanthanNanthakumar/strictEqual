@@ -1,5 +1,5 @@
 {
-  "name": "deep-eqaul",
+  "name": "strict-equal",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
