@@ -6,9 +6,23 @@
   "scripts": {
     "test": "jest --coverage"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Nisanthan Nanthakumar",
+    "email": "nisanthan.nanthakumar@gmail.com",
+    "url": "https://nanthakumar.ca"
+  },
+  "license": "Apache",
   "devDependencies": {
     "jest": "^24.1.0"
+  },
+  "keywords": [
+    "equality",
+    "equal",
+    "compare",
+    "strict"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NisanthanNanthakumar/strictEqual.git"
   }
 }
